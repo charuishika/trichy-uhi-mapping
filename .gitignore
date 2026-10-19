@@ -1,0 +1,17 @@
+# Secrets and credentials
+.streamlit/secrets.toml
+.env
+.env.*
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
