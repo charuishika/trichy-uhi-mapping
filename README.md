@@ -154,44 +154,6 @@ Interactive Streamlit Dashboard
 
 ---
 
-## 📊 Application Screenshots
-
-### Dashboard Overview
-
-<!-- Add your dashboard screenshot here -->
-![Dashboard Overview](screenshots/dashboard.png)
-
-### Land Surface Temperature (LST)
-
-<!-- Add your LST screenshot here -->
-![LST Map](screenshots/lst.png)
-
-### NDVI – Vegetation Analysis
-
-<!-- Add your NDVI screenshot here -->
-![NDVI Map](screenshots/ndvi.png)
-
-### NDBI – Built-up Analysis
-
-<!-- Add your NDBI screenshot here -->
-![NDBI Map](screenshots/ndbi.png)
-
-### Relative UHI Map
-
-<!-- Add your Relative UHI screenshot here -->
-![Relative UHI Map](screenshots/relative_uhi.png)
-
-### Heat Hotspots
-
-<!-- Add your hotspot screenshot here -->
-![Hotspot Map](screenshots/hotspots.png)
-
-### Mitigation Zones
-
-<!-- Add your mitigation screenshot here -->
-![Mitigation Zones](screenshots/mitigation.png)
-
----
 
 ## 🚀 Installation & Setup
 
